@@ -3,7 +3,7 @@ METHOD OVERLOADING:
 Method overloading in c-sharp refers to defining multiple methods with the same name but different parameters.
 Method overloading can be executed by changing the number of arguements and data type of the arguements.
 To overload a method in c-sharp; we define another method with the same name but with different signatures;
-Method overloading is also called COMPLIED TIME POLYMORPHISM or EARLY BINDING.
+Method overloading is also called COMPILED TIME POLYMORPHISM or EARLY BINDING.
 
 METHOD OVERRIDING:
 Method overriding means override a base class method in the derived class by creating a method with the same name
